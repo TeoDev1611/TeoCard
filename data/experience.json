@@ -1,0 +1,24 @@
+{
+	"title" : "Projects",
+	"experience" : [
+		{
+			"timeperiod" : "My faster vim Distribution",
+			"company" : "NeoTeo",
+			"website": "https://www.github.com/TeoDev1611/NeoTeo",
+			"description" : "A faster neovim configuration with some options ( Lua | Vim Script | Minimalist ) Using pure vim script, lua and Minimalist using a asynchronous package manager called Dein by Shougo"
+		},
+		{
+		      "timeperiod":"Moldy The modern way to manage, start and administrate your projects",
+		      "website":"https://www.github.com/Moldy-Community",
+		      "company":"moldy",
+		      "description":"A project writed in Go for manage, start projects for a community and other options"
+		},
+		{
+		      "timeperiod":"dogeDot",
+		      "website":"https://www.github.com/TeoDev1611/dogeDot",
+		      "company":"DogeDot",
+		      "description":"dogeDot a Neovim | Vim Super ToolKit for manage your dotfiles, install configs, managers and your own package manager"
+		  
+		}
+	]
+}

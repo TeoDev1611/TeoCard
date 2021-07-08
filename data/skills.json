@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Go" : "90",
+		"Vim" : "85",
+		"Python" : "90",
+		"Typescript" : "75"
+	}
+}
