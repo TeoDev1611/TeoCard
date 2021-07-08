@@ -10,7 +10,7 @@ Landing presentation website made using [Hugo](https://gohugo.io), [Hugo-UILite]
 ```shell
 hugo serve
 ```
-4. Go to [https://localhost:1313]
+4. Go to [https://localhost:1313](https://localhost:1313)
 5. Enjoy 😎✌
 
 ---
